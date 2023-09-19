@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="auto.png" />
+    <None Remove="exit.png" />
+    <None Remove="Pages\attention.png" />
+    <None Remove="Pages\docx.png" />
+    <None Remove="Pages\free-icon-paper-clip-1972588.png" />
+    <None Remove="Pages\ik.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="auto.png" />
+    <Resource Include="exit.png" />
+    <Resource Include="Pages\attention.png" />
+    <Resource Include="Pages\docx.png" />
+    <Resource Include="Pages\free-icon-paper-clip-1972588.png" />
+    <Resource Include="Pages\ik.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,107 @@
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\bin\Debug\net6.0-windows\Audit.exe
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\bin\Debug\net6.0-windows\Audit.deps.json
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\bin\Debug\net6.0-windows\Audit.runtimeconfig.json
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\bin\Debug\net6.0-windows\Audit.dll
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\bin\Debug\net6.0-windows\Audit.pdb
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\Audit.csproj.AssemblyReference.cache
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\Audit_MarkupCompile.cache
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\Audit_MarkupCompile.lref
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\Audit.g.resources
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\Audit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\Audit.AssemblyInfoInputs.cache
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\Audit.AssemblyInfo.cs
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\Audit.csproj.CoreCompileInputs.cache
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\Audit.dll
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\refint\Audit.dll
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\Audit.pdb
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\Audit.genruntimeconfig.cache
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\ref\Audit.dll
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\Pages\Page1.g.cs
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\Pages\Page1.baml
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\Pages\Page0.g.cs
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\aitug\Desktop\C#\Development\Programs\Ais\Audit\obj\Debug\net6.0-windows\Pages\Page0.baml
+C:\Users\User\Documents\Audit\bin\Debug\net6.0-windows\Audit.exe
+C:\Users\User\Documents\Audit\bin\Debug\net6.0-windows\Audit.deps.json
+C:\Users\User\Documents\Audit\bin\Debug\net6.0-windows\Audit.runtimeconfig.json
+C:\Users\User\Documents\Audit\bin\Debug\net6.0-windows\Audit.dll
+C:\Users\User\Documents\Audit\bin\Debug\net6.0-windows\Audit.pdb
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Audit.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Pages\Page0.g.cs
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Pages\Page1.g.cs
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Audit_MarkupCompile.cache
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Audit_MarkupCompile.lref
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Pages\Page0.baml
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Pages\Page1.baml
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Audit.g.resources
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Audit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Audit.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Audit.AssemblyInfo.cs
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Audit.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Audit.dll
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\refint\Audit.dll
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Audit.pdb
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Audit.genruntimeconfig.cache
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\ref\Audit.dll
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Pages\Page3.g.cs
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Pages\Page3.baml
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Pages\Page4.g.cs
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Pages\Page4.baml
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Pages\PageOpen.g.cs
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Pages\PageOpen.baml
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Pages\Task.g.cs
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Pages\Task.baml
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Pages\Calculate.g.cs
+C:\Users\User\Documents\Audit\obj\Debug\net6.0-windows\Pages\Calculate.baml
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\Audit.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\Pages\Calculate.g.cs
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\Audit_MarkupCompile.cache
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\Audit_MarkupCompile.lref
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\Audit.dll
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\refint\Audit.dll
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\Audit.pdb
+C:\Users\User\Documents\Audit prog\bin\Debug\net6.0-windows\Audit.exe
+C:\Users\User\Documents\Audit prog\bin\Debug\net6.0-windows\Audit.deps.json
+C:\Users\User\Documents\Audit prog\bin\Debug\net6.0-windows\Audit.runtimeconfig.json
+C:\Users\User\Documents\Audit prog\bin\Debug\net6.0-windows\Audit.dll
+C:\Users\User\Documents\Audit prog\bin\Debug\net6.0-windows\Audit.pdb
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\Pages\Calculate.baml
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\Audit.g.resources
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\Audit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\Audit.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\Audit.AssemblyInfo.cs
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\Audit.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\Audit.genruntimeconfig.cache
+C:\Users\User\Documents\Audit prog\obj\Debug\net6.0-windows\ref\Audit.dll
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\bin\Debug\net6.0-windows\Audit.exe
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\bin\Debug\net6.0-windows\Audit.deps.json
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\bin\Debug\net6.0-windows\Audit.runtimeconfig.json
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\bin\Debug\net6.0-windows\Audit.dll
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\bin\Debug\net6.0-windows\Audit.pdb
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\Audit.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\Pages\Calculate.g.cs
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\Audit_MarkupCompile.cache
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\Audit_MarkupCompile.lref
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\Pages\Calculate.baml
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\Audit.g.resources
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\Audit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\Audit.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\Audit.AssemblyInfo.cs
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\Audit.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\Audit.dll
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\refint\Audit.dll
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\Audit.pdb
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\Audit.genruntimeconfig.cache
+C:\Users\User\Documents\ПК Аналитика данных\Audit prog\obj\Debug\net6.0-windows\ref\Audit.dll
